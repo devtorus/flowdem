@@ -6,7 +6,7 @@ Democracia líquida é uma metodologia de governança democrática onde todos os
 
 Este modelo de governança visa otimizar a representatividade de cada participante. Este modelo prevalece ainda sobre a democracia direta uma vez que quando você delega diretamente para cada indivíduo a responsabilidade sobre cada decisão, este não consegue conjugar as atividades cotidianas com o a dedicação necessária para tomar uma decisão bem informada sobre determinado tópico. 
 
-Por outro lado este modelo também supera o da democracia representativa, tendo em vista que tembém resolve a questão da decisão bem informada e é superior na trasição da representatividade, não tendo que esperar ritos específicos em períodos especificos para refletir mudanças de preferências de representatividade.
+Por outro lado este modelo também supera o da democracia representativa, pois além de resolver a questão da decisão bem informada e é superior na trasição da representatividade, não tendo que esperar ritos específicos em períodos especificos para refletir mudanças de preferências de representatividade.
 
 O FlowDem é um framework genérico para implementação de diversas variações de democracia líquida. Define regras base que podem ser extendidas para suprir necessidades fora do escpo base inicial.
 
@@ -35,7 +35,7 @@ Determina uma categoria a qual determinada decisão pertence. Cada decisão deve
 
 Uma esfera determina as regras de funcinamento da democracia assim como as partículas participantes. Sugere-se definir um escopo e objetivo claro para cada esfera.
 
-As regras de adesão de particulas, a regra para definição de potência do voto, bom como a definição de propostas pautadasnão são escopo da metodologia, ficando livre para a implamentação definir a melhor forma.
+As regras de adesão de particulas, a regra para definição de potência do voto, bom como a definição de propostas pautadas não são escopo da metodologia, ficando livre para a implamentação definir a melhor forma.
 
 Isto implica que a gestão da esfera é livre e se enquadra em um espectro que vai de totalmente descentralizada a totalmente centralizada. 
 

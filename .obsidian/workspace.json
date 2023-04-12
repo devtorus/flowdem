@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac7e0338c23f402d",
+            "id": "62715369c4aa91fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "51449f3568d0a4ec",
+            "id": "693c2e3c685a0d6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Metodoliga FlowDem.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Metodoliga FlowDem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Metodoliga FlowDem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Metodoliga FlowDem.md"
               }
             }
           }
@@ -159,9 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51449f3568d0a4ec",
+  "active": "693c2e3c685a0d6f",
   "lastOpenFiles": [
+    "Casos de uso/comite_formatura/sumario.md",
+    "Casos de uso/README.md",
+    "Casos de uso/Comitê de Fromatura.md",
     "Metodoliga FlowDem.md",
+    "README.md",
     "CleanShot 2023-02-08 at 07.59.42.png"
   ]
 }
