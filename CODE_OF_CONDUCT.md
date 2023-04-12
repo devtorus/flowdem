@@ -1,0 +1,1 @@
+## Este arquivo deverá conter o código de conduta deste repositório
